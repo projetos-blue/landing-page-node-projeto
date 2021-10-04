@@ -39,4 +39,3 @@ app.listen(port, () =>
 
 // app.get("/detalhes", (req, res) => {
 //   res.detalhes("detalhes");
-// });
